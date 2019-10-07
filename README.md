@@ -3,5 +3,5 @@
 Version 0.101
 This program writes a simple hello world message when run, but it is done in Flask which is neat and new and not at all confusing. If you say it is confusing then you are in fact the worst person who has read this README.md file. You monster.
 
-Version 0.2.1
+Version 0.2.2
 Added some messages other than the one in the tutorial, also added HTML templates which automatically populate using the object we added. 

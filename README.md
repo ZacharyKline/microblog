@@ -5,3 +5,6 @@ This program writes a simple hello world message when run, but it is done in Fla
 
 Version 0.2.2
 Added some messages other than the one in the tutorial, also added HTML templates which automatically populate using the object we added. 
+
+Version 0.3
+Added information to create a login form which adds onto the, and gives a link at the top of the page to toggle between home and the login form. I also added some secret word protection against leet hackers which are always trying to destroy my websites, with their weird hacker ways.

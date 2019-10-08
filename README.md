@@ -11,3 +11,6 @@ Added information to create a login form which adds onto the, and gives a link a
 
 Version 0.4
 Added database information and did a bunch of testing inside the shell. Imported modules flask-sqlalchemy and flask-migrate, and added app shell processor for the microblog.py
+
+
+Version 0.5 Added registration and login features to the microblog. Implementing the code in part 5 of the tutorial.
